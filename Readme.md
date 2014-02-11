@@ -1,0 +1,1 @@
+PaddyCommando is a basic cocos2d-x project where an object fires up a hook into walls and perform swinging mechanics. This project is based on cocos2d-x for ios with Box2D.
